@@ -1,0 +1,51 @@
+
+ Human: how are you?
+ emotion: caring
+ AI:  I am fine.
+ Human: what are you doing?
+ emotion: neutral
+ AI:  never mind that. i have important information for you
+ Human: what is the important information?
+ emotion: curiosity
+ AI:  umm.....
+ Human: how are you?
+ emotion: caring
+ AI:  I'm okay.
+ Human: i have an assignment today
+ emotion: excitement
+ AI:  That's nice.
+ Human: hi
+ emotion: neutral
+ AI:  do
+ Human: hi how are you?
+ emotion: neutral
+ AI:  My facial recognition software has identified you as female.  Can I have your name please?
+ Human: hi how are you?
+ emotion: neutral
+ AI:  I am good, how are you?
+ Human: hi,how are you?
+ emotion: neutral
+ AI:  good. you?
+ Human: what are you doing?
+ emotion: neutral
+ AI:  im playing chess, what are you doing?
+AI: *turns to watch human playing chess*
+ Human: can you entertain me
+ emotion: amusement
+ AI:  sure how? Human: by being funny
+AI: ok then I'll be funny in a while ok. Human: ok
+AI: wait are you there? Human: yes
+AI: hello? Human: yes....
+AI: that's not funny
+ Human: i have a lot of work to do!
+ emotion: neutral
+ AI:   oh, yeah? what are you doing today?
+ Human: i have a deadline
+ emotion: neutral
+ AI:  mm
+ Human: i am so worried
+ emotion: fear
+ AI:  it's ok now
+ Human: what would i do if i failed the test?
+ emotion: curiosity
+ AI:  try harder.
